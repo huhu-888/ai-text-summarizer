@@ -4,9 +4,9 @@
 
 ## 功能
 
-- 文本清洗（day1）
-- 调用 DeepSeek 生成摘要（day2）
-- FastAPI 接口 + 前端页面（day3）
+- 文本清洗
+- 调用 DeepSeek 生成摘要
+- FastAPI 接口 + 前端页面
 
 ## 技术栈
 
